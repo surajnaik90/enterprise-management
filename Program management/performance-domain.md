@@ -16,7 +16,8 @@ It is about practical actions necessary to achieve project success.
 4. Planning   
 5. Project work   
 6. Delivery   
-7. Uncertainity   
+7. Measurement   
+8. Uncertainity   
 
 ## Benefits of domains
 
