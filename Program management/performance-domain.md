@@ -54,3 +54,25 @@ It's the power interest grid of stakeholders.
 3. **Norming**: Time of collaboration. Comfortable. Everyone aligning on roles and responsibilities.
 4. **Performing**: Team reached peak performance.   
 5. **Adjourning**: Reflect. Celebrate. Closure. Accomplishments. Transition.
+
+## Planning performane domain
+
+Scheduling techniques:
+
+1. Critical Path Method   
+2. Program evaluation and review technique (PERT)   
+3. Agile Scheduling technique   
+
+## Measurement performance domain
+
+Popular KPIs used for project management:
+
+1. Schedule Performance Index (SPI)   
+2. Cost Performance Index (CPI)   
+3. Earned Value   
+4. Quality Metrics   
+
+Performance analysis:
+
+1. Variance analysis: Deviation from the planned.   
+2. Trend analysis: Future forecast based on previous data.
